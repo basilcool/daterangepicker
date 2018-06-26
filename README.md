@@ -1,4 +1,4 @@
-# Date Range Picker for Bootstrap
+# Date Range Picker for Bootstrap3
 
 ![Improvely.com](https://i.imgur.com/UTRlaar.png)
 
